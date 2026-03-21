@@ -1,11 +1,11 @@
 [/] contact the client
 [/] find keycap CAD template
-[] Modify keycaps with raised letters
+[/] Modify keycaps with raised letters
 Progress:
-  - 
-[] Search for keyboard (to mount the keycaps on)
+  - March 5 protypes done
+  - March 18, DONE
+[/] Search for keyboard (to mount the keycaps on)
     - may need to modify for membrane/rubber dome switches if one is not found online
-    - 
 Keyboard Options:
     - donor keyboard if possible (check if membrane or mechanical)
     - budget $10-$20ish
@@ -13,7 +13,27 @@ Keyboard Options:
     - https://www.amazon.ca/Oriental-Mechanical-Keyboard-Swappable-Conflict/dp/B0DPL1289G/ref=sr_1_63?dib=eyJ2IjoiMSJ9.1j0Y00s5d0ZX0uZhMUWb5jYfZFRoaq6K6cWZ_NdHeP3Vy6MZ7_NWsg8oKeHWe6MhHVUeK4C5K3hNwKKvhl7pUuB1H0ni-Cml3SEXVx3x0KNJ3GP7hvNF5KI7FY2zoI8LI8s4YJyCPHP7OHRLxxXADI3gKNz1oWKOOWhTn6EPbtPpMuq5leQ_SWMWAlZfnUCnjYD4_7V9O3tjL6EPtyA0MKQYok1YqlAV1ehvGF03ExCeOKZVrOPxlNv7K33k7kDCuPyDjYfL_XNdG2FITIQ2zW4uhGdYljHJCG5PEo0N3s8.d7dD2hdz-LH_oViqPKSWy6w4Hird9R_TRZoqk2eRdyU&dib_tag=se&gad_source=1&hvadid=788537219232&hvdev=c&hvexpln=0&hvlocphy=9001027&hvnetw=g&hvocijid=7697448453161021035--&hvqmt=e&hvrand=7697448453161021035&hvtargid=kwd-556079740712&hydadcr=14819_13731925&keywords=mechanical+keyboard+under+20&mcid=d59990fac67a300dbe4094a331223a31&qid=1769125165&refinements=p_36%3A-2500&rnid=12035759011&sr=8-63&xpid=1Bzcs_d-llKMJ
     - https://www.bestbuy.ca/en-ca/product/open-box-insignia-ns-pnk8001c-wired-keyboard-black-english/16016476 ($9)
     - check E2 Weef lab hallway, check the stuffs box for keyboards, Ted will bring mechanical keyboard to enable meeting before reading week
-[]
-[]
-[]
-[]
+[/] Prototypes (does it fit)
+
+[] numbers in purple
+[] QWERTYUIOP{} in red
+[] ASDFGHJKL;'enter in blue
+[] last row is blue
+[] ctrl and alt in yellow
+
+PROCESS:
+- used keycap templates from online and adjusted them with the raised letters
+- Made 2 versions, one for Mechanical switches, one for membrane switches
+- made 3d printed prototypes to narrow down fitting, also fix the spaghetti issues, narrow down infill and surface ironing
+- uploaded all files to github
+- ik this 
+
+
+[] Presentation:
+- Intro
+- manufacturing process (prototypes, testing, challenges)
+- how it benefited the client
+- durability? working? 
+- perchance video interview, how the product's working, what could be improved, how it helped the kiddos, etc.
+- why should we invest in this product?
+- just over 5 minutes
